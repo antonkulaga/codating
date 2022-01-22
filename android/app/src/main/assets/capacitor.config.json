@@ -1,0 +1,7 @@
+{
+	"appId": "com.github.antonkulaga",
+	"appName": "codating",
+	"webDir": "build",
+	"bundledWebRuntime": false,
+	"linuxAndroidStudioPath": "studio.sh"
+}
